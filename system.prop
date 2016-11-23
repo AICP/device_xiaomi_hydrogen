@@ -10,3 +10,11 @@ ro.hardware.fingerprint=fpc
 
 # Radio
 persist.radio.ignore_dom_time=5
+
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8956 Snapdragon 650
+ro.device.cpu=Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)
+ro.device.gpu=Adreno 510
+ro.device.rear_cam=16 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=1080x1920
